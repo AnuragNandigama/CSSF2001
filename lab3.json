@@ -1,0 +1,25 @@
+[
+{
+    "student_id": "202018546",
+    "first_name": "Anurag",
+    "last_name": "Nandigama",
+    "email": "anurag.nandigama@montrealcollege.ca",
+    "gender": "M",
+    "courses_studied": ["CS1", "CS2", "CS3", "CS4", "CS5"],
+    "program_name": "Computer Science Technician",
+    "second_program": false
+
+},
+
+{
+    "student_id": "202018546",
+    "first_name": "Sam",
+    "last_name": "THanyakaram",
+    "email": "sam.th@montrealcollege.ca",
+    "gender": "M",
+    "courses_studied": ["BA1", "BA2", "BA3", "BA4", "BA5"],
+    "program_name": "Business Analysis",
+    "second_program": true
+}
+]
+

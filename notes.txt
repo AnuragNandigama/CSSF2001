@@ -1,0 +1,5 @@
+--Sample JSON input
+'{"name": "Anurag", "email": "anurag.nandigama@montrealcollege.ca", "language": ["English", "Telugu"]}'
+
+--Sample Dict output
+{'name': 'Anurag', 'email': 'anurag.nandigama@montrealcollege.ca', 'language': ['English', 'Telugu']}
